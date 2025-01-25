@@ -1,7 +1,9 @@
 # e-commerce
 
 INTERACTIVE PRODUCT SLIDER
+
 Project Overview
+
 This is a dynamic Frontend Web Application showcasing a product slider where users can interact with various product categories and customize their choices by selecting colors and sizes. Built using vanilla HTML, CSS, and JavaScript, the application is responsive, intuitive, and visually engaging.
 
 The project mimics an e-commerce product browsing experience with features such as dynamic image updates, smooth transitions, and interactive buttons.
