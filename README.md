@@ -12,7 +12,7 @@
 
 ## KEY FEATURES
 
--Interactive Product Categories: Users can navigate through multiple product categories seamlessly using a slider.
+- Interactive Product Categories: Users can navigate through multiple product categories seamlessly using a slider.
 - Dynamic Product Updates:
 - Display product information such as title, price, and image based on the selected category.
 - Update product details dynamically when changing categories or colors.
